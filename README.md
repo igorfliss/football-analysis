@@ -10,7 +10,7 @@ Projekt analityczny na danych o 19 763 meczach Premier League, La Ligi, Serie A,
 
 ## Główne wyniki
 
-Szczegóły, zapytania SQL i wykresy: [notebooks/02_analysis.ipynb](notebooks/02_analysis.ipynb).
+Szczegóły, zapytania SQL i wykresy: [notebooks/01_analysis.ipynb](notebooks/01_analysis.ipynb).
 
 ### 1. Przewaga własnego boiska
 
